@@ -9,7 +9,7 @@ This ability comes from two designs:
 - We train the detector on the joint of part-level, object-level and image-level data. 
 - We parse the novel object into its parts by its dense semantic correspondence with the base object.
 
-[[`arXiv`]()]
+[[`arXiv`](https://arxiv.org/abs/2305.11173)]
 
 ## Installation
 
@@ -43,7 +43,7 @@ If you use VLPart in your research or wish to refer to the baseline results publ
 @article{peize2023vlpart,
   title   =  {Going Denser with Open-Vocabulary Part Segmentation},
   author  =  {Sun, Peize and Chen, Shoufa and Zhu, Chenchen and Xiao, Fanyi and Luo, Ping and Xie, Saining and Yan, Zhicheng},
-  journal =  {arXiv preprint arXiv:2023.00000},
+  journal =  {arXiv preprint arXiv:2305.11173},
   year    =  {2023}
 }
 ```
