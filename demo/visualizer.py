@@ -34,6 +34,8 @@ def _create_text_labels(classes, scores, class_names, is_crowd=None, args=None):
     """
     replace_set = [['monitor_(computer_equipment) computer_monitor', 'computer_monitor'],
                    ['_(computer_equipment)', ''],
+                   ['_(automobile)', ''],
+                   ['_(drink container)', ''],
                 ]
     labels = None
     if classes is not None:
