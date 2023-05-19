@@ -1,0 +1,22 @@
+MODEL:
+  ANN_GENERATOR: True
+  META_ARCHITECTURE: ParserNetMixer
+  PIXEL_NORM: True
+  PIXEL_MEAN: [0.485, 0.456, 0.406]
+  PIXEL_STD: [0.229, 0.224, 0.225]
+DINO:
+  MODEL_TYPE: 'dino_vits8'
+  STRIDE: 4
+  LAYER: 11
+  BUILD_BASEDATA: True
+  BASEDATA_SAVE_DIR: "output_basedata_pascalpart"
+DATASETS:
+  TEST: ("pascal_part_train_one",)
+INPUT:
+  MIN_SIZE_TEST: 224
+  MAX_SIZE_TEST: 672
+  FORMAT: "RGB"
+DATALOADER:
+  NUM_WORKERS: 4
+VERSION: 2
+OUTPUT_DIR: "output/VLPart/auto"

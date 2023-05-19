@@ -1,0 +1,34 @@
+_BASE_: "../coco/swinbase_cascade_coco.yaml"
+MODEL:
+  ROI_HEADS:
+    NUM_CLASSES: 531
+    SCORE_THRESH_TEST: 0.001
+  ROI_BOX_HEAD:
+    MULT_OBJECT_SCORE: True
+    USE_SIGMOID_CE: True
+    USE_FED_LOSS: True
+    CAT_FREQ_PATH: 'datasets/metadata/paco_lvis_v1_train_cat_info.json'
+    USE_ZEROSHOT_CLS: True
+    ZEROSHOT_WEIGHT_DIM: 1024
+    ZEROSHOT_WEIGHT_PATH: 'datasets/metadata/paco_clip_RN50_a+cname.npy'
+    ZEROSHOT_WEIGHT_INFERENCE_PATH: 'datasets/metadata/paco_clip_RN50_a+cname.npy'
+  EVAL_ATTR: False
+  EVAL_PER: False
+DATASETS:
+  TRAIN: ("paco_lvis_v1_train",)
+  TEST: ("paco_lvis_v1_val",)
+SOLVER:
+  IMS_PER_BATCH: 16
+  USE_CUSTOM_SOLVER: True
+  OPTIMIZER: "ADAMW"
+  BASE_LR: 0.00005
+  STEPS: (120000, 160000)
+  MAX_ITER: 180000
+  CHECKPOINT_PERIOD: 10000
+TEST:
+  DETECTIONS_PER_IMAGE: 300
+  EVAL_PERIOD: 50000
+DATALOADER:
+  SAMPLER_TRAIN: "RepeatFactorTrainingSampler"
+  REPEAT_THRESHOLD: 0.001
+  NUM_WORKERS: 8

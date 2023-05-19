@@ -1,0 +1,55 @@
+_BASE_: "../coco/swinbase_cascade_coco.yaml"
+MODEL:
+  WEIGHTS: "models/swinbase_cascade_lvis_paco_pascalpart_partimagenet.pth"
+  ROI_HEADS:
+    NUM_CLASSES: 1203 # max of num_classes in all train datasets
+  ROI_BOX_HEAD:
+    MULT_OBJECT_SCORE: True
+    USE_SIGMOID_CE: True
+    USE_ZEROSHOT_CLS: True
+    USE_ZEROSHOT_CLS_GROUP: True
+    ZEROSHOT_WEIGHT_DIM: 1024
+    ZEROSHOT_WEIGHT_PATH_GROUP: [
+      'datasets/metadata/lvis_v1_clip_RN50_a+cname.npy',
+      'datasets/metadata/paco_clip_RN50_a+cname.npy',
+      'datasets/metadata/pascal_part_clip_RN50_a+cname.npy',
+      'datasets/metadata/partimagenet_clip_RN50_a+cname.npy',
+      'datasets/metadata/imagenet_golden_clip_RN50_a+cname.npy'
+    ]
+    ZEROSHOT_WEIGHT_INFERENCE_PATH: 'datasets/metadata/partimagenet_clip_RN50_a+cname.npy'
+    IGNORE_ZERO_CATS_GROUP: [False, False, False, False, False]
+    USE_FED_LOSS_GROUP: [True, True, False, False, False]
+    CAT_FREQ_PATH_GROUP: [
+      'datasets/metadata/lvis_v1_train_cat_info.json',
+      'datasets/metadata/paco_lvis_v1_train_cat_info.json',
+      '', '', ''
+    ]
+    NOUNS_LOSS_WEIGHT: 0.1
+DATASETS:
+  TRAIN: ("lvis_v1_train", "paco_lvis_v1_train", "pascal_part_train", "partimagenet_train", "imagenet_golden")
+  TEST: ("partimagenet_val",)
+SOLVER:
+  IMS_PER_BATCH: 16
+  USE_CUSTOM_SOLVER: True
+  OPTIMIZER: "ADAMW"
+  BASE_LR: 0.00005
+  STEPS: (30000, 35000)
+  MAX_ITER: 40000
+  CHECKPOINT_PERIOD: 5000
+INPUT:
+  CUSTOM_AUG: ResizeShortestEdge
+  MIN_SIZE_TRAIN_SAMPLING: range
+  MIN_SIZE_TRAIN: (640, 800)
+DATALOADER:
+  SAMPLER_TRAIN: "MultiDatasetSampler"
+  DATASET_RATIO: [4, 2, 1, 1, 8]
+  USE_DIFF_BS_SIZE: True
+  DATASET_BS: [2, 2, 2, 2, 8]
+  USE_RFS: [True, True, False, False, False]
+  DATASET_MIN_SIZES: [[640, 800], [640, 800], [640, 800], [640, 800], [400, 400]]
+  DATASET_MAX_SIZES: [1333, 1333, 1333, 1333, 667]
+  FILTER_EMPTY_ANNOTATIONS: False
+  MULTI_DATASET_GROUPING: True
+  DATASET_ANN: ['box', 'box', 'box', 'box', 'image']
+  NUM_WORKERS: 8
+WITH_IMAGE_LABELS: True

@@ -1,0 +1,36 @@
+_BASE_: "../pascal_part/swinbase_cascade_pascalpart.yaml"
+MODEL:
+  ANN_GENERATOR: True
+  META_ARCHITECTURE: ParserNetMixer
+  WEIGHTS: "models/swinbase_cascade_lvis_paco_pascalpart_partimagenet.pth"
+  ROI_HEADS:
+    SCORE_THRESH_TEST: 0.7
+    NMS_THRESH_TEST: 0.3
+  ROI_BOX_HEAD:
+    WS_NUM_PROPS: 512
+    ZEROSHOT_WEIGHT_INFERENCE_PATH: 'datasets/metadata/pascal_part_clip_RN50_a+cname.npy'
+DINO:
+  MODEL_TYPE: 'dino_vits8'
+  STRIDE: 4
+  LAYER: 11
+  THRESH: 0.05
+  BUILD_BASEDATA: False
+  BASEDATA_SAVE_DIR: 'output_basedata_pascalpart'
+  BASEDATA_ANN_PATH: 'datasets/pascal_part/train_one.json'
+  BASEDATA_IMS_PATH: 'datasets/pascal_part/VOCdevkit/VOC2010/JPEGImages/'
+  BASE_OBJ_CAT: !!python/object/apply:eval ["[x for x in range(75)]"] # start from 0
+  PIXEL_NORM: True
+  PIXEL_MEAN: [0.485, 0.456, 0.406]
+  PIXEL_STD: [0.229, 0.224, 0.225]
+  MIN_SIZE_TEST: 224
+DATASETS:
+  TEST: ("imagenet_golden_pascal",)
+OUTPUT_ANN_DIR: 'datasets/imagenet/imagenet_golden_pascal_parsed.json'
+INPUT:
+  MIN_SIZE_TEST: 224
+  MAX_SIZE_TEST: 672
+  FORMAT: "RGB"
+DATALOADER:
+  NUM_WORKERS: 4
+VERSION: 2
+OUTPUT_DIR: "output/VLPart/auto"

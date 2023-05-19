@@ -1,0 +1,12 @@
+opencv-python
+mss
+timm==0.5.4
+setuptools==59.5.0
+dataclasses
+imagesize
+ftfy
+regex
+scikit-learn
+lvis
+nltk
+git+https://github.com/openai/CLIP.git

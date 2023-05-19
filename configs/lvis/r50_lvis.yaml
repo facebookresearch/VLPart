@@ -1,0 +1,32 @@
+_BASE_: "../coco/r50_coco.yaml"
+MODEL:
+  ROI_HEADS:
+    NUM_CLASSES: 1203
+    SCORE_THRESH_TEST: 0.0001
+  ROI_BOX_HEAD:
+    MULT_OBJECT_SCORE: True
+    USE_SIGMOID_CE: True
+    USE_ZEROSHOT_CLS: True
+    USE_FED_LOSS: True
+    CAT_FREQ_PATH: 'datasets/metadata/lvis_v1_train_cat_info.json'
+    ZEROSHOT_WEIGHT_DIM: 1024
+    ZEROSHOT_WEIGHT_PATH: 'datasets/metadata/lvis_v1_clip_RN50_a+cname.npy'
+    ZEROSHOT_WEIGHT_INFERENCE_PATH: 'datasets/metadata/lvis_v1_clip_RN50_a+cname.npy'
+DATASETS:
+  TRAIN: ("lvis_v1_train",)
+  TEST: ("lvis_v1_minival",)
+SOLVER:
+  IMS_PER_BATCH: 16
+  USE_CUSTOM_SOLVER: True
+  OPTIMIZER: "ADAMW"
+  BASE_LR: 0.00005
+  STEPS: (60000, 80000)
+  MAX_ITER: 90000
+  CHECKPOINT_PERIOD: 5000
+TEST:
+  DETECTIONS_PER_IMAGE: 300
+  EVAL_PERIOD: 10000
+DATALOADER:
+  SAMPLER_TRAIN: "RepeatFactorTrainingSampler"
+  REPEAT_THRESHOLD: 0.001
+  NUM_WORKERS: 8

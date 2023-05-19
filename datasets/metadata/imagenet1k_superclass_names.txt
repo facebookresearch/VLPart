@@ -1,0 +1,1000 @@
+cyprinid, cyprinid fish
+cyprinid, cyprinid fish
+mackerel shark
+requiem shark
+shark
+ray
+ray
+bird
+bird
+ratite, ratite bird, flightless bird
+finch
+finch
+finch
+finch
+bunting
+thrush
+nightingale, Luscinia megarhynchos
+corvine bird
+corvine bird
+titmouse, tit
+oscine, oscine bird
+hawk
+eagle, bird of Jove
+bird of prey, raptor, raptorial bird
+owl, bird of Minerva, bird of night, hooter
+salamander
+newt, triton
+newt, triton
+ambystomid, ambystomid salamander
+ambystomid, ambystomid salamander
+true frog, ranid
+frog, toad, toad frog, anuran, batrachian, salientian
+frog, toad, toad frog, anuran, batrachian, salientian
+sea turtle, marine turtle
+sea turtle, marine turtle
+turtle
+turtle
+turtle
+gecko
+iguanid, iguanid lizard
+iguanid, iguanid lizard
+teiid lizard, teiid
+agamid, agamid lizard
+agamid, agamid lizard
+anguid lizard
+venomous lizard
+lacertid lizard, lacertid
+chameleon, chamaeleon
+monitor, monitor lizard, varan
+crocodile
+alligator, gator
+ceratopsian, horned dinosaur
+colubrid snake, colubrid
+colubrid snake, colubrid
+colubrid snake, colubrid
+colubrid snake, colubrid
+colubrid snake, colubrid
+colubrid snake, colubrid
+colubrid snake, colubrid
+colubrid snake, colubrid
+colubrid snake, colubrid
+boa
+python
+cobra
+black mamba, Dendroaspis augusticeps
+snake, serpent, ophidian
+viper
+rattlesnake, rattler
+rattlesnake, rattler
+arthropod
+arachnid, arachnoid
+arachnid, arachnoid
+spider
+spider
+spider
+spider
+spider
+spider
+acarine
+arthropod
+grouse
+grouse
+grouse
+grouse
+peafowl, bird of Juno
+phasianid
+phasianid
+parrot
+parrot
+cockatoo
+lory
+cuckoo
+coraciiform bird
+coraciiform bird
+apodiform bird
+piciform bird
+piciform bird
+duck
+merganser, fish duck, sawbill, sheldrake
+anseriform bird
+swan
+mammal, mammalian
+monotreme, egg-laying mammal
+monotreme, egg-laying mammal
+kangaroo
+phalanger, opossum, possum
+marsupial, pouched mammal
+coelenterate, cnidarian
+anthozoan, actinozoan
+stony coral, madrepore, madriporian coral
+worm
+worm
+gastropod, univalve
+gastropod, univalve
+gastropod, univalve
+gastropod, univalve
+mollusk, mollusc, shellfish
+cephalopod, cephalopod mollusk
+crab
+crab
+crab
+crab
+true lobster
+lobster
+decapod crustacean, decapod
+decapod crustacean, decapod
+malacostracan crustacean
+stork
+stork
+wading bird, wader
+wading bird, wader
+heron
+egret
+heron
+wading bird, wader
+wading bird, wader
+purple gallinule
+coot
+wading bird, wader
+turnstone
+sandpiper
+sandpiper
+snipe
+shorebird, shore bird, limicoline bird
+pelecaniform seabird
+penguin
+pelagic bird, oceanic bird
+baleen whale, whalebone whale
+dolphin
+sea cow, sirenian mammal, sirenian
+eared seal
+toy dog, toy
+toy dog, toy
+toy dog, toy
+toy dog, toy
+toy dog, toy
+English toy spaniel
+toy spaniel
+toy dog, toy
+hunting dog
+hound, hound dog
+hound, hound dog
+hound, hound dog
+hound, hound dog
+hound, hound dog
+coonhound
+foxhound
+foxhound
+hound, hound dog
+wolfhound
+wolfhound
+greyhound
+greyhound
+hound, hound dog
+hound, hound dog
+hound, hound dog
+hound, hound dog
+hound, hound dog
+hound, hound dog
+bullterrier, bull terrier
+bullterrier, bull terrier
+terrier
+terrier
+terrier
+terrier
+terrier
+terrier
+terrier
+fox terrier
+wirehair, wirehaired terrier, wire-haired terrier
+Welsh terrier
+terrier
+terrier
+terrier
+terrier
+terrier
+schnauzer
+schnauzer
+schnauzer
+terrier
+terrier
+terrier
+terrier
+terrier
+terrier
+retriever
+retriever
+retriever
+retriever
+retriever
+pointer, Spanish pointer
+pointer, Spanish pointer
+setter
+setter
+setter
+spaniel
+spaniel
+springer spaniel, springer
+springer spaniel, springer
+spaniel
+spaniel
+water spaniel
+watchdog, guard dog
+watchdog, guard dog
+Belgian sheepdog, Belgian shepherd
+Belgian sheepdog, Belgian shepherd
+shepherd dog, sheepdog, sheep dog
+shepherd dog, sheepdog, sheep dog
+shepherd dog, sheepdog, sheep dog
+shepherd dog, sheepdog, sheep dog
+shepherd dog, sheepdog, sheep dog
+shepherd dog, sheepdog, sheep dog
+shepherd dog, sheepdog, sheep dog
+shepherd dog, sheepdog, sheep dog
+shepherd dog, sheepdog, sheep dog
+shepherd dog, sheepdog, sheep dog
+pinscher
+pinscher
+Sennenhunde
+Sennenhunde
+Sennenhunde
+Sennenhunde
+working dog
+working dog
+mastiff
+bulldog, English bulldog
+working dog
+working dog
+working dog
+sled dog, sledge dog
+sled dog, sledge dog
+dog, domestic dog, Canis familiaris
+pinscher
+dog, domestic dog, Canis familiaris
+dog, domestic dog, Canis familiaris
+dog, domestic dog, Canis familiaris
+dog, domestic dog, Canis familiaris
+dog, domestic dog, Canis familiaris
+spitz
+spitz
+spitz
+spitz
+griffon, Brussels griffon, Belgian griffon
+corgi, Welsh corgi
+corgi, Welsh corgi
+poodle, poodle dog
+poodle, poodle dog
+poodle, poodle dog
+dog, domestic dog, Canis familiaris
+wolf
+wolf
+wolf
+wolf
+wild dog
+wild dog
+wild dog
+canine, canid
+fox
+fox
+fox
+fox
+domestic cat, house cat, Felis domesticus, Felis catus
+domestic cat, house cat, Felis domesticus, Felis catus
+domestic cat, house cat, Felis domesticus, Felis catus
+domestic cat, house cat, Felis domesticus, Felis catus
+domestic cat, house cat, Felis domesticus, Felis catus
+wildcat
+wildcat
+big cat, cat
+big cat, cat
+big cat, cat
+big cat, cat
+big cat, cat
+big cat, cat
+bear
+bear
+bear
+bear
+viverrine, viverrine mammal
+viverrine, viverrine mammal
+beetle
+beetle
+beetle
+beetle
+beetle
+scarabaeid beetle, scarabaeid, scarabaean
+scarabaeid beetle, scarabaeid, scarabaean
+beetle
+dipterous insect, two-winged insects, dipteran, dipteron
+hymenopterous insect, hymenopteran, hymenopteron, hymenopter
+hymenopterous insect, hymenopteran, hymenopteron, hymenopter
+orthopterous insect, orthopteron, orthopteran
+orthopterous insect, orthopteron, orthopteran
+phasmid, phasmid insect
+dictyopterous insect
+dictyopterous insect
+homopterous insect, homopteran
+homopterous insect, homopteran
+neuropteron, neuropteran, neuropterous insect
+odonate
+odonate
+nymphalid, nymphalid butterfly, brush-footed butterfly, four-footed butterfly
+butterfly
+danaid, danaid butterfly
+pierid, pierid butterfly
+butterfly
+butterfly
+echinoderm
+echinoderm
+echinoderm
+rabbit, coney, cony
+leporid, leporid mammal
+rabbit, coney, cony
+rodent, gnawer
+rodent, gnawer
+tree squirrel
+rodent, gnawer
+rodent, gnawer
+cavy
+horse, Equus caballus
+equine, equid
+swine
+swine
+swine
+even-toed ungulate, artiodactyl, artiodactyl mammal
+cattle, cows, kine, oxen, Bos taurus
+Old World buffalo, buffalo
+bovid
+sheep
+mountain sheep
+wild goat
+antelope
+antelope
+antelope
+camel
+even-toed ungulate, artiodactyl, artiodactyl mammal
+musteline mammal, mustelid, musteline
+musteline mammal, mustelid, musteline
+musteline mammal, mustelid, musteline
+musteline mammal, mustelid, musteline
+musteline mammal, mustelid, musteline
+musteline mammal, mustelid, musteline
+musteline mammal, mustelid, musteline
+edentate
+sloth, tree sloth
+great ape, pongid
+great ape, pongid
+great ape, pongid
+lesser ape
+lesser ape
+Old World monkey, catarrhine
+Old World monkey, catarrhine
+Old World monkey, catarrhine
+Old World monkey, catarrhine
+Old World monkey, catarrhine
+Old World monkey, catarrhine
+Old World monkey, catarrhine
+New World monkey, platyrrhine, platyrrhinian
+New World monkey, platyrrhine, platyrrhinian
+New World monkey, platyrrhine, platyrrhinian
+New World monkey, platyrrhine, platyrrhinian
+New World monkey, platyrrhine, platyrrhinian
+New World monkey, platyrrhine, platyrrhinian
+lemur
+lemur
+elephant
+elephant
+procyonid
+procyonid
+food fish
+soft-finned fish, malacopterygian
+salmon
+butterfly fish
+damselfish, demoiselle
+ganoid, ganoid fish
+ganoid, ganoid fish
+scorpaenid, scorpaenid fish
+plectognath, plectognath fish
+calculator, calculating machine
+robe
+gown, robe
+free-reed instrument
+guitar
+warship, war vessel, combat ship
+airplane, aeroplane, plane
+lighter-than-air craft
+structure, construction
+car, auto, automobile, machine, motorcar
+motor vehicle, automotive vehicle
+clock
+shed
+protective garment
+bin
+automatic rifle, automatic, machine rifle
+bag
+workplace, work
+gymnastic apparatus, exerciser
+lighter-than-air craft
+pen
+adhesive bandage
+stringed instrument
+barrier
+weight, free weight, exercising weight
+chair
+shop, store
+farm building
+measuring instrument, measuring system, measuring device
+vessel
+handcart, pushcart, cart, go-cart
+ball
+ball
+baby bed, baby's bed
+double-reed instrument, double reed
+cap
+bath linen
+vessel
+car, auto, automobile, machine, motorcar
+tower
+jar
+hat, chapeau, lid
+bottle
+glass, drinking glass
+shelter
+piece of cloth, piece of material
+bicycle, bike, wheel, cycle
+swimsuit, swimwear, bathing suit, swimming costume, bathing costume
+protective covering, protective cover, protection
+optical instrument
+shelter
+shed
+sled, sledge, sleigh
+necktie, tie
+hat, chapeau, lid
+furniture, piece of furniture, article of furniture
+shop, store
+cap
+weapon, arm, weapon system
+necktie, tie
+memorial, monument
+woman's clothing
+barrier
+armor plate, armour plate, armor plating, plate armor, plate armour
+cleaning implement, cleaning device, cleaning equipment
+vessel
+fastener, fastening, holdfast, fixing
+body armor, body armour, suit of armor, suit of armour, coat of mail, cataphract
+passenger train
+shop, store
+car, auto, automobile, machine, motorcar
+pot
+lamp
+gun
+small boat
+opener
+sweater, jumper
+mirror
+ride
+kit, outfit
+box
+wheel
+machine
+container
+electronic equipment
+fortification, munition
+sailboat, sailing boat
+electronic equipment
+bowed stringed instrument, string
+radiotelephone, radiophone, wireless telephone
+ligament
+fence, fencing
+body armor, body armour, suit of armor, suit of armour, coat of mail, cataphract
+power saw, saw, sawing machine
+box
+chest of drawers, chest, bureau, dresser
+percussion instrument, percussive instrument
+cabinet
+stocking
+place of worship, house of prayer, house of God, house of worship
+theater, theatre, house
+knife
+dwelling, home, domicile, abode, habitation, dwelling house
+covering
+footwear, footgear
+shaker
+mug
+pot
+structure, construction
+lock
+data input device, input device
+shop, store
+cargo ship, cargo vessel
+car, auto, automobile, machine, motorcar
+bottle opener
+brass, brass instrument
+boot
+hat, chapeau, lid
+baby bed, baby's bed
+lifting device
+helmet
+box
+baby bed, baby's bed
+cooker
+croquet equipment
+staff
+body armor, body armour, suit of armor, suit of armour, coat of mail, cataphract
+barrier
+table
+personal computer, PC, microcomputer
+telephone, phone, telephone set
+garment
+clock
+watch, ticker
+table
+piece of cloth, piece of material
+white goods
+hydraulic brake, hydraulic brakes
+landing, landing place
+sled, sledge, sleigh
+roof
+mat
+drill rig, drilling rig, oilrig, oil rig
+percussion instrument, percussive instrument
+stick
+weight, free weight, exercising weight
+oven
+fan
+guitar
+locomotive, engine, locomotive engine, railway locomotive
+wall unit
+container
+coffee maker
+powder
+scarf
+office furniture
+boat
+truck, motortruck
+screen
+staff
+woodwind, woodwind instrument, wood
+chair
+helmet
+self-propelled vehicle
+structure, construction
+pen
+bed
+car, railcar, railway car, railroad car
+brass, brass instrument
+pan, cooking pan
+coat
+truck, motortruck
+mask
+pump
+glass, drinking glass
+motor vehicle, automotive vehicle
+ball
+golf equipment
+boat
+percussion instrument, percussive instrument
+dress, frock
+piano, pianoforte, forte-piano
+building, edifice
+grate, grating
+marketplace, market place, mart, market
+instrument of execution
+clip
+toiletry, toilet articles
+tracked vehicle
+hand tool
+basket, handbasket
+dryer, drier
+portable computer
+piece of cloth, piece of material
+magnetic disk, magnetic disc, disk, disc
+free-reed instrument
+chordophone
+farm machine
+ax, axe
+sheath
+theater, theatre, house
+framework
+mechanical device
+skirt
+gymnastic apparatus, exerciser
+cart
+sandglass
+stereo, stereophony, stereo system, stereophonic system
+home appliance, household appliance
+lantern
+trouser, pant
+car, auto, automobile, machine, motorcar
+shirt
+puzzle
+cart
+data input device, input device
+robe
+protective garment
+fastener, fastening, holdfast, fixing
+coat
+vessel
+shade
+portable computer
+garden tool, lawn tool
+cap
+knife
+building, edifice
+sea boat
+device
+car, auto, automobile, machine, motorcar
+passenger ship
+makeup, make-up, war paint
+shoe
+toiletry, toilet articles
+electro-acoustic transducer
+hand glass, simple microscope, magnifying glass
+factory, mill, manufacturing plant, manufactory
+compass
+bag
+box
+tights, leotards
+swimsuit, swimwear, bathing suit, swimming costume, bathing costume
+top, cover
+percussion instrument, percussive instrument
+percussion instrument, percussive instrument
+disguise
+stick
+post
+system
+measure
+cabinet
+memorial, monument
+electro-acoustic transducer
+kitchen appliance
+uniform
+can, tin, tin can
+bus, autobus, coach, charabanc, double-decker, jitney, motorbus, motorcoach, omnibus, passenger vehicle
+skirt
+car, auto, automobile, machine, motorcar
+weapon, arm, weapon system
+glove
+bowl
+housing, lodging, living accommodations
+car, auto, automobile, machine, motorcar
+electronic equipment
+religious residence, cloister
+electronic equipment
+minibike, motorbike
+vessel
+cap
+place of worship, house of prayer, house of God, house of worship
+screen
+wheeled vehicle
+bicycle, bike, wheel, cycle
+tent, collapsible shelter
+electronic device
+trap
+van
+restraint, constraint
+fastener, fastening, holdfast, fixing
+brace
+jewelry, jewellery
+cap
+portable computer
+column, pillar
+double-reed instrument, double reed
+wind instrument, wind
+meter
+filter
+keyboard instrument
+electronic equipment
+skirt
+cart
+breathing device, breathing apparatus, breathing machine, ventilator
+package, parcel
+oar
+wheel
+lock
+brush
+nightwear, sleepwear, nightclothes
+residence
+pipe
+towel
+rescue equipment
+gymnastic apparatus, exerciser
+bench
+timer
+car, railcar, railway car, railroad car
+area
+telephone, phone, telephone set
+support
+box
+sharpener
+toiletry, toilet articles
+dish
+duplicator, copier
+device
+helmet
+fence, fencing
+truck, motortruck
+support
+savings bank, coin bank, money box, bank
+bottle
+cushion
+ball
+wheel
+ship
+vessel
+edge tool
+building, edifice
+bag
+rack
+tool
+hand tool
+camera, photographic camera
+rod
+van
+cloak
+game equipment
+bottle
+container
+wheel
+power tool
+rug, carpet, carpeting
+peripheral, computer peripheral, peripheral device
+correctional institution
+weapon, arm, weapon system
+optical instrument
+disk, disc
+ball
+bag
+pen
+bedclothes, bed clothing, bedding
+car, auto, automobile, machine, motorcar
+sports implement
+mechanism
+communication system
+astronomical telescope
+cistern
+self-propelled vehicle
+winder
+camera, photographic camera
+white goods
+device
+building, edifice
+pistol, handgun, side arm, shooting iron
+firearm, piece, small-arm
+chair
+oven
+eraser
+ball
+measuring stick, measure, measuring rod
+shoe
+strongbox, deedbox
+pin
+shaker
+shoe
+skirt
+single-reed instrument, single-reed woodwind
+sheath
+measuring instrument, measuring system, measuring device
+bus, autobus, coach, charabanc, double-decker, jitney, motorbus, motorcoach, omnibus, passenger vehicle
+sailing vessel, sailing ship
+board
+display, video display
+fastener, fastening, holdfast, fixing
+hand tool
+safety belt, life belt, safety harness
+home appliance, household appliance
+armor, armour
+shop, store
+screen, cover, covert, concealment
+basket, handbasket
+handcart, pushcart, cart, go-cart
+hand tool
+cap
+curtain, drape, drapery, mantle, pall
+runner
+face mask
+bag
+analog computer, analogue computer
+door
+slot machine, coin machine
+breathing device, breathing apparatus, breathing machine, ventilator
+tracked vehicle
+motor vehicle, automotive vehicle
+dispenser
+ball
+hosiery, hose
+reflector
+hat, chapeau, lid
+bowl
+key
+heater, warmer
+spacecraft, ballistic capsule, space vehicle
+turner, food turner
+motorboat, powerboat
+web, entanglement
+stick
+car, auto, automobile, machine, motorcar
+lamp
+platform
+locomotive, engine, locomotive engine, railway locomotive
+bridge, span
+percussion instrument, percussive instrument
+medical instrument
+scarf
+fence, fencing
+timer
+heater, warmer
+filter
+self-propelled vehicle
+litter
+convertible, sofa bed
+shrine
+submersible, submersible warship
+garment
+timepiece, timekeeper, horologe
+converging lens, convex lens
+spectacles, specs, eyeglasses, glasses
+cream, ointment, emollient
+bridge, span
+cleaning implement, cleaning device, cleaning equipment
+pullover, slipover
+swimsuit, swimwear, bathing suit, swimming costume, bathing costume
+plaything, toy
+control, controller
+medical instrument
+lamp
+tracked vehicle
+electronic equipment
+pot
+plaything, toy
+telecommunication system, telecom system, telecommunication equipment, telecom equipment
+ball
+roof
+curtain, drape, drapery, mantle, pall
+container
+farm machine
+chair of state
+roof
+kitchen appliance
+shop, store
+seat
+light, light source
+emblem
+truck, motortruck
+shop, store
+self-propelled vehicle
+truck, motortruck
+receptacle
+raincoat, waterproof
+wheeled vehicle
+sailboat, sailing boat
+rack, stand
+memorial, monument
+bus, autobus, coach, charabanc, double-decker, jitney, motorbus, motorcoach, omnibus, passenger vehicle
+brass, brass instrument
+vessel
+gate
+keyboard
+canopy
+wheeled vehicle
+piano, pianoforte, forte-piano
+home appliance, household appliance
+jar
+roof
+fabric, cloth, material, textile
+slot machine, coin machine
+gown, robe
+bridge, span
+bowed stringed instrument, string
+ball
+kitchen appliance
+clock
+case
+furniture, piece of furniture, article of furniture
+military vehicle
+basin
+white goods
+bottle
+jug
+reservoir
+jug
+signaling device
+hairpiece, false hair, postiche
+screen
+window blind
+necktie, tie
+bottle
+airfoil, aerofoil, control surface, surface
+pan, cooking pan
+woodenware
+fabric, cloth, material, textile
+rail fence
+ship
+small boat
+dwelling, home, domicile, abode, habitation, dwelling house
+computer, computing machine, computing device, data processor, electronic computer, information processing system
+magazine, mag
+puzzle
+sign
+light
+jacket
+fare
+entree, main course
+dip
+soup
+stew
+pudding, pud
+frozen dessert
+frozen dessert
+loaf of bread, loaf
+bun, roll
+cracker
+hamburger, beefburger, burger
+sandwich
+potato, white potato, Irish potato, murphy, spud, tater
+cabbage, chou
+cruciferous vegetable
+cruciferous vegetable
+summer squash
+summer squash
+winter squash
+winter squash
+vegetable, veggie, veg
+vegetable, veggie, veg
+sweet pepper
+vegetable, veggie, veg
+vegetable, veggie, veg
+eating apple, dessert apple
+berry
+citrus, citrus fruit, citrous fruit
+citrus, citrus fruit, citrous fruit
+edible fruit
+edible fruit
+edible fruit
+edible fruit
+edible fruit
+edible fruit
+fodder
+spaghetti sauce, pasta sauce
+sauce
+concoction, mixture, intermixture
+dish
+dish
+dish
+dish
+wine, vino
+coffee, java
+punch
+punch
+mountain, mount
+globule
+geological formation, formation
+reef
+spring, fountain, outflow, outpouring, natural spring
+shore
+natural elevation, elevation
+bar
+shore
+natural depression, depression
+mountain, mount
+athlete, jock
+participant
+diver, frogman, underwater diver
+oilseed, oil-rich seed
+flower
+lady's slipper, lady-slipper, ladies' slipper, slipper orchid
+kernel
+fruit
+fruit
+seed
+fungus
+basidiomycete, basidiomycetous fungi
+fungus
+fungus
+fungus
+fungus
+fungus
+fruit
+tissue, tissue paper
