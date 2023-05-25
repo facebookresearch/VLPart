@@ -18,7 +18,7 @@ MODEL:
   ROI_HEADS:
     NAME: "CLIPRes5ROIHeads"
     IN_FEATURES: ["res4"]
-    NUM_CLASSES: 48 # base categories
+    NUM_CLASSES: 93 # base categories
     SCORE_THRESH_TEST: 0.001
   ROI_BOX_HEAD:
     NAME: ""
