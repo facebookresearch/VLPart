@@ -6,12 +6,12 @@ This document provides the steps of applying third party methods on part detecti
 
 The evaluation metric is APbox on validation set of PASCAL Part.
 
-| Method                                                | dog: head | dog: leg | dog: paw | dog: tail | dog: torso | 
-|-------------------------------------------------------|:---------:|:--------:|:--------:|:---------:|:----------:|
-| [RegionCLIP](https://github.com/microsoft/RegionCLIP) |    5.2    |   0.1    |   0.2    |    0.0    |    1.9     | 
-| [Detic](https://github.com/facebookresearch/Detic)    |    3.2    |   0.0    |   0.0    |    0.0    |    2.0     |
-| [VLDet](https://github.com/clin1223/VLDet)            |    3.5    |   0.0    |   0.0    |    0.0    |    1.9     |
-| [GLIP](https://github.com/microsoft/GLIP)             |   32.6    |   3.1    |   2.7    |    2.2    |    10.5    |
+| Method                                                |    All(93)   | dog: head | dog: leg | dog: paw | dog: tail | dog: torso | 
+|-------------------------------------------------------|:------------:|:---------:|:--------:|:--------:|:---------:|:----------:|
+| [RegionCLIP](https://github.com/microsoft/RegionCLIP) |     2.6      |    1.9    |   0.1    |   0.0    |    0.0    |    1.9     | 
+| [Detic](https://github.com/facebookresearch/Detic)    |     3.1      |    3.2    |   0.0    |   0.0    |    0.0    |    2.0     |
+| [VLDet](https://github.com/clin1223/VLDet)            |     3.3      |    3.5    |   0.0    |   0.0    |    0.0    |    1.9     |
+| [GLIP](https://github.com/microsoft/GLIP)             | Not supported yet|   32.6    |   3.1    |   2.7    |    2.2    |    10.5    |
 
 
 ### RegionCLIP
@@ -80,6 +80,7 @@ $VLDet_ROOT/vldet/data/datasets/coco_zeroshot.py
 $VLDet_ROOT/vldet/__init__.py
 $VLDet_ROOT/configs/VLDet_LbaseI_CLIP_SwinB_896b32_2x_ft4x_caption_part.yaml
 $VLDet_ROOT/tools/dump_clip_features_pascal_part.py
+$VLDet_ROOT/train_net.py
 ```
 5. Generate the classifier
 ```

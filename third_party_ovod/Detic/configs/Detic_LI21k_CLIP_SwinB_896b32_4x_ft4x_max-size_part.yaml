@@ -2,9 +2,9 @@ _BASE_: "Detic_LI21k_CLIP_SwinB_896b32_4x_ft4x_max-size.yaml"
 MODEL:
   RESET_CLS_TESTS: True
   TEST_CLASSIFIERS: ('datasets/metadata/pascal_part_clip_a+cname.npy',)
-  TEST_NUM_CLASSES: [81,]
+  TEST_NUM_CLASSES: [93,]
   ROI_HEADS:
-    NUM_CLASSES: 81
+    NUM_CLASSES: 93
   ROI_BOX_HEAD:
     ZEROSHOT_WEIGHT_PATH: 'datasets/metadata/pascal_part_clip_a+cname.npy'
 DATASETS:
