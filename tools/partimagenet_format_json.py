@@ -28,7 +28,6 @@ if __name__ == '__main__':
                 new_segs.append(seg + [seg[0], seg[1]])
             else:
                 new_segs.append(seg)
-            new_segs.append(seg)
         ann['segmentation'] = new_segs
 
     print('Writing to', args.new_path)
