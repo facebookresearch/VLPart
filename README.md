@@ -48,6 +48,8 @@ If you use VLPart in your research or wish to refer to the baseline results publ
 }
 ```
 
-## Extension Project
+## :fire:  Extension Project
 
-We develop an extension project [Grounded Segment Anything: From Objects to Parts](https://github.com/Cheems-Seminar/grounded-segment-any-parts) to detect, segment and edit anything in a dialogue system.
+[Grounded Segment Anything: From Objects to Parts](https://github.com/Cheems-Seminar/grounded-segment-any-parts): A dialogue system to detect, segment and edit anything in part-level in the image.
+
+[Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM): A universal image segmentation model to enable segment and recognize anything at any desired granularity.
